@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65de6ace-18cd-46d0-a3e9-061ae8be8020" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TiAnaEHYDQkRHZhrb6viVo6f5e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="TestNG.PinionTest.verifyHomePageTitle">
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challange.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.challange.test" />
+      <option name="MAIN_CLASS_NAME" value="com.challange.test.HomePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.addBestSellerHeadphonesToCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challange.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.challange.test" />
+      <option name="MAIN_CLASS_NAME" value="com.challange.test.HomePageTest" />
+      <option name="METHOD_NAME" value="addBestSellerHeadphonesToCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PinionTest.verifyHomePageTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fromAtoB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fromAtoB" />
+      <option name="MAIN_CLASS_NAME" value="com.fromAtoB.PinionTest" />
+      <option name="METHOD_NAME" value="verifyHomePageTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PinionTest.verifyHomePageTitle" />
+        <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG.HomePageTest.addBestSellerHeadphonesToCart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65de6ace-18cd-46d0-a3e9-061ae8be8020" name="Default Changelist" comment="" />
+      <created>1573932709038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573932709038</updated>
+      <workItem from="1573932712826" duration="15000" />
+      <workItem from="1573933731443" duration="494000" />
+      <workItem from="1573964139518" duration="178000" />
+      <workItem from="1573969753751" duration="707000" />
+      <workItem from="1574604953665" duration="12000" />
+      <workItem from="1575726196388" duration="9952000" />
+      <workItem from="1575826756756" duration="1751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="225" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1575742362334">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="225" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.877@0.23.1440.877" timestamp="1575742362334" />
+    <state width="872" height="217" key="GridCell.Tab.0.bottom" timestamp="1575757373018">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="872" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1575757373018" />
+    <state width="872" height="217" key="GridCell.Tab.0.center" timestamp="1575757373016">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="872" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1575757373016" />
+    <state width="872" height="217" key="GridCell.Tab.0.left" timestamp="1575757373015">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="872" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1575757373015" />
+    <state width="872" height="217" key="GridCell.Tab.0.right" timestamp="1575757373017">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="872" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1575757373017" />
+    <state x="149" y="68" key="new project wizard" timestamp="1575726260518">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="149" y="68" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1575726260518" />
+  </component>
+</project>
